@@ -11,7 +11,10 @@ This project is to create a functional Pac-Man game. The objective of the game i
 
 ## Features:
 - Title screen
-- Basic.java -> Score, lives, adding a gate to forbid Pac-Man from entering house, creating an 'elevator' for ghosts to exit their house
+- Score in game
+- Lives
+- Gate to forbid Pac-Man from entering house
+- An 'invisible elevator' for ghosts to exit their house
 - Speed-ups and cherries for score enhancements
 - Sound of game theme played, sound played when pellets are eaten, and sound played when Pac-Man dies
 - High score with name displayed to the reader after the game is completed.
@@ -27,7 +30,7 @@ This project is to create a functional Pac-Man game. The objective of the game i
 - Comparator
 - Hashmaps (dad helped me on this)
 - While/for-loops
-- Try and catch to read/write a file try
+- Try and catch to read/write a file 
 - GetAudioInputStream (classmate helped me on this) to read clips
 - Creating panels and frames.
 
