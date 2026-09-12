@@ -1,5 +1,5 @@
 # Pacman Game Enhancements
-Created Sunday Dec 15, 2024. Uploaded onto Github Saturday Sep 12, 2026. Open in Eclipse or IntelliJ and run PacManGame.java
+Created Sunday Dec 15, 2024. Uploaded onto Github Saturday Sep 12, 2026. Open in Eclipse or IntelliJ to run PacManGame.java
 
 ## Description: 
 This project is to create a functional Pac-Man game. The objective of the game is to complete all levels without losing all 3 lives in each one.
