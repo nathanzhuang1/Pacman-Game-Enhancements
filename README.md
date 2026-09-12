@@ -36,4 +36,4 @@ This project is to create a functional Pac-Man game. The objective of the game i
 
 ## Areas of Concern
 - List is not in order for leaderboard
-- Code may not function properly due to years of ~2 years of idling
+- Code may not function properly due to ~2 years of idling
