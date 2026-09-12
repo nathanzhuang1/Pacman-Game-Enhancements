@@ -22,7 +22,7 @@ This project is to create a functional Pac-Man game. The objective of the game i
 
 ## Contributions:
 - A classmate helped me to read music clips and to ensure they are working.
-- Another clasmmate helped me set respawn position for ghosts upon losing a life.
+- Another classmate helped me set respawn position for ghosts upon losing a life.
 - My dad helped me to use a hash-map to write the name and score of the user onto a .txt file and to read them.
 
 ## Major Skills:
