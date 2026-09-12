@@ -23,7 +23,7 @@ This project is to create a functional Pac-Man game. The objective of the game i
 - Hashmaps (dad helped me on this)
 - While/for-loops
 - Try and catch to read/write a file try
-- GetAudioInputStream (Lakshna helped me on this) to read clips
+- GetAudioInputStream (classmate helped me on this) to read clips
 - Creating panels and frames.
 
 ## Areas of Concern
