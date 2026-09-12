@@ -20,20 +20,15 @@ This project is to create a functional Pac-Man game. The objective of the game i
 - High score with name displayed to the reader after the game is completed.
 - Leaderboard displaying the participants and their achievements
 
-## Contributions:
-- A classmate helped me to read music clips and to ensure they are working.
-- Another classmate helped me set respawn position for ghosts upon losing a life.
-- My dad helped me to use a hash-map to write the name and score of the user onto a .txt file and to read them.
-
 ## Major Skills:
 - Arraylists
 - Comparator
-- Hashmaps (dad helped me on this)
+- Hashmaps
 - While/for-loops
 - Try and catch to read/write a file 
-- GetAudioInputStream (classmate helped me on this) to read clips
+- GetAudioInputStream to read clips
 - Creating panels and frames.
 
 ## Areas of Concern
 - List is not in order for leaderboard
-- Code may not function properly due to ~2 years of idling
+- Some features may need updates for compatibility since this was built ~2 years ago
